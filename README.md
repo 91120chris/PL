@@ -8,3 +8,4 @@
 系級：科技系四年級
 
 [HW1](https://github.com/91120chris/PL/blob/main/HW1.ipynb)
+[HW2](https://github.com/91120chris/PL/blob/main/HW2.ipynb)
