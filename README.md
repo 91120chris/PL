@@ -12,3 +12,4 @@
 [HW2](https://github.com/91120chris/PL/blob/main/HW2.ipynb)
 
 [HW3](https://github.com/91120chris/PL/blob/main/HW3.ipynb)
+[HW3 video](https://youtu.be/b_Zy3_b58S4)
