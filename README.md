@@ -12,6 +12,6 @@
 [HW2](https://github.com/91120chris/PL/blob/main/HW2.ipynb)
 
 [HW3](https://github.com/91120chris/PL/blob/main/HW3.ipynb)
-[HW3 video](https://youtu.be/b_Zy3_b58S4)
-[HW3 csv](https://github.com/91120chris/PL/blob/main/HW3_news.csv)
-[HW3 json](https://github.com/91120chris/PL/blob/main/HW3_news_data.json)
+[video](https://youtu.be/b_Zy3_b58S4)
+[csv](https://github.com/91120chris/PL/blob/main/HW3_news.csv)
+[json](https://github.com/91120chris/PL/blob/main/HW3_news_data.json)
