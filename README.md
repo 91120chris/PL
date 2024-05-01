@@ -15,3 +15,5 @@
 [video](https://youtu.be/b_Zy3_b58S4)
 [csv](https://github.com/91120chris/PL/blob/main/HW3_news.csv)
 [json](https://github.com/91120chris/PL/blob/main/HW3_news_data.json)
+
+[HW4](https://github.com/91120chris/PL/blob/main/HW4.ipynb)
